@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "bridgeessentials",
+    "name": "BridgeEssentials",
+    "description": "Bridging practice HUD: attempt timer, Tap/Flat landings, turnout forecasts, plate coordinates and attempt counter, with an in-game settings menu.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Skepi"],
+    "credits": "Made by skepi",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
